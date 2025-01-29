@@ -1,5 +1,5 @@
 # 🥷 Desafio - Sistema Bancário
-Desafio em Python para o bootcamp NTT Data.
+Desafio em Python para o bootcamp NTT Data
 
 # 📖 Contextualização
 ## 📌 Programa
